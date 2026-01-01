@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte de um desafio prático da **DIO (Digita
 
 ## 🧠 O Modelo de Grafo
 
-O banco de dados modela as interações entre usuários, artistas e músicas através da seguinte estrutura de Nós e Relacionamentos:
+O banco de dados modela as interações entre usuários, artistas, músicas e Generos através da seguinte estrutura de Nós e Relacionamentos:
 
 ### Nós (Nodes)
 
